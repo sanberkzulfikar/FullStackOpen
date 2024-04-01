@@ -38,7 +38,7 @@
     {
       "id": "8",
       "content": "123",
-      "important": false
+      "important": true
     },
     {
       "id": "b4ad",
@@ -48,6 +48,11 @@
     {
       "id": "bdab",
       "content": "a new note...test",
+      "important": false
+    },
+    {
+      "id": "ed9e",
+      "content": "test12312",
       "important": false
     }
   ]
